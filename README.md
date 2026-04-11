@@ -29,9 +29,9 @@
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jageshwar01&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jageshwar01&show_icons=true&theme=tokyonight"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jageshwar01&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jageshwar01&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -40,9 +40,10 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Jageshwar01&theme=tokyonight"/>
-</p>
 
+<img src="https://streak-stats.demolab.com?user=Jageshwar01&theme=tokyonight"/>
+
+</p>
 ---
 
 ### 📌 Featured Projects
