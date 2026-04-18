@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jageshwer Vishwakarma</h1>
-<h3 align="center">AI Developer | Robotics Enthusiast | IoT Engineer</h3>
+<h3 align="center">Software & AI Developer | Robotics Enthusiast | IoT Engineer</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
