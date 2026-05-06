@@ -9,7 +9,7 @@
 - 🎓 B.Tech CSE (2022-2026)
 - 🤖 Working on **Vaani AI Robot**
 - 🌱 Learning **AI, Machine Learning, Web Development**
-- ⚡ Interested in **Robotics, IoT, Automation**
+- ⚡ Interested in **Software Developement**, **Robotics, IoT, Automation**
 - 🏆 GDG IoT Head (Campus)
 - 👨‍🏫 Student Coordinator – AI & Robotics Club
 
